@@ -83,15 +83,6 @@
 - [【网络图片并发直传OSS】](https://github.com/wkunzhi/SpiderUtilPackage/tree/master/OSS)
 - [【JS攻防-自动生成encrypt结果】](https://github.com/wkunzhi/SpiderUtilPackage/tree/master/Jsencrypt)
 
-
-## 【推荐】爬虫练习网
-> 一个很不错的爬虫练习题网，内涵十几个爬虫题目，由浅到深涵盖 **ip反爬、js反爬、字体反爬、验证码** 等题目。安利给大家，博主已撸完。
-
-- 登录网址 http://www.glidedsky.com/login
-- 题分排行榜 http://www.glidedsky.com/rank
-
-![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/images/%E7%88%AC%E8%99%AB%E9%A2%98%E8%AE%B0%E5%BD%95.png?x-oss-process=image/resize,w_400)
-
 ----
 
 ##淘宝：自动登录
@@ -127,6 +118,3 @@
 
 ![缺口识别](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/images/20190818/WX20191011-203441%402x.png?x-oss-process=image/resize,h_200)
 
-
-## QQ 讨论群
-![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/11/18/wx201911181627012x.png?x-oss-process=image/resize,h_300)
